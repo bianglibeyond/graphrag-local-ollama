@@ -1,0 +1,362 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;&#26519;&#23431;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Lin Yu is a new actor who interacts with Anjelica, offering his perspective on acting and the importance of staying in character. He also experiences the effects of running true energy and maintaining an erection during intimate activities with Angelica. Lin Yu appreciates the authenticity of real-life scenes in film production and enjoys discussing it with his colleagues. He engages in conversation about photography techniques with Angela while appreciating the beauty of nature. During intimate moments, Lin Yu discovers new sensations and shows curiosity and persistence in exploring different areas. He discusses acting and performance with Angelica, mentioning that he would lose motivation if his co-star were not enthusiastic about their roles. Lin Yu enjoys joking around and discussing work-related topics with colleagues, showing a friendly and engaging personality. He finds Angela intriguing and is interested in getting to know her better. They share physical intimacy and desire, with passionate and forceful kisses. Lin Yu also practices martial arts and experiences the absorption of spiritual energy into his body, indicating a connection between physical health and spiritual cultivation.</data>
+      <data key="d2">17f35c31016fe765d1346f21b2e1981f,1ffe1b77252d014743d5cc613e0ff1ee,2224392a0f8f509a55e0914296ca2d90,28ea27f52bb6a03c57f01f60c6340ef9,35a2d36ad9550f48138e26b78d13db00,403d4dca0d48f6cc75f1cfeffc7811ce,862bb14141e773ce12a86977c7f404bf,8798c6963229ec913b1fbd4955e591f9,8d8bd546cef2f19c085533292496e9a6,aa25a1a30585d0a50168aae02d3b643a,b5df0c696ff87c01b08383c1b73dc863,c3ae88d328a9e4197f6cedbe38636e10,ca9dec2044c5e49977bf147c069038ba,db90598110872572ae56b29a1bcdb33a,ff605da41617200b1f0e906f3b753acc</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;&#24352;&#19977;&#20016;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#24352;&#19977;&#20016; is a legendary martial artist known for his extraordinary skills and longevity."</data>
+      <data key="d2">891acb7a2e6245a48520e37ffd0bfdff</data>
+      <data key="d5">0</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;&#29579;&#37325;&#38451;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#29579;&#37325;&#38451; is another legendary martial artist, famous for his exceptional abilities and long life span."</data>
+      <data key="d2">891acb7a2e6245a48520e37ffd0bfdff</data>
+      <data key="d5">0</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;&#24352;&#26080;&#24524;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#24352;&#26080;&#24524; is a well-known martial arts master with remarkable skills and vitality."</data>
+      <data key="d2">891acb7a2e6245a48520e37ffd0bfdff</data>
+      <data key="d5">0</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;&#39532;&#26031;&#20811;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Elon Musk is a wealthy entrepreneur who has built an enormous fortune that seems to grow endlessly, similar to the legendary martial artists mentioned earlier."</data>
+      <data key="d2">891acb7a2e6245a48520e37ffd0bfdff</data>
+      <data key="d5">0</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;&#24052;&#33778;&#29305;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Warren Buffet is another extremely rich individual whose wealth appears to be never-ending, akin to the great martial arts masters of legend."</data>
+      <data key="d2">891acb7a2e6245a48520e37ffd0bfdff</data>
+      <data key="d5">0</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;&#23433;&#21513;&#33673;&#21345;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Anjielika is a woman who comes from Ukraine and has experienced a male-dominated culture. She pursued a career in the adult film industry where she is often portrayed as a weak and submissive character. Anjielika interacts with Lin Yu, discussing acting techniques and their roles while engaging in intimate physical contact during their interactions. They also collaborate with Danne on various projects. In addition to her acting career, Anjielika participates in new employee training sessions and engages in conversations about film production, sharing her thoughts on the challenges and requirements of creating authentic scenes. She appreciates Lin's compliments but reminds him to maintain professionalism in his work. Anjielika reassures her brother about his ability to maintain energy during filming, showing concern for his well-being. She wants to develop relationships beyond work with men like Lin Yu, engaging in high-frequency deep exchanges.</data>
+      <data key="d2">17f35c31016fe765d1346f21b2e1981f,2224392a0f8f509a55e0914296ca2d90,254af588833c67deee1b3d23d889b5d7,28ea27f52bb6a03c57f01f60c6340ef9,3b4dc3a476f8756653a52f93660602b4,403d4dca0d48f6cc75f1cfeffc7811ce,48ed707180eedb2e40688e77245db4b2,694d411c27ef3b3073d6dccb80781da2,862bb14141e773ce12a86977c7f404bf,8d8bd546cef2f19c085533292496e9a6,b9e17451752c8cc4cef066b9b9152b2b,c1e6986b771c7c4d3d5d762b28559a5c,c3ae88d328a9e4197f6cedbe38636e10,db90598110872572ae56b29a1bcdb33a,f8c007155a91a9588b91fed9585ecda3</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;ORGANIZATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The organization, known as '\u5bc6\u5b97', is a secret religious group that practices a special dual cultivation technique. They are focused on research and development in the area of multiple ejaculation and have been involved in testing mysterious secret methods. The quality of female practitioners within the organization affects their progress in practicing cultivation. Although not explicitly mentioned, it can be inferred that the organization might be involved in creating the 'desire pearl' or other significant events taking place.</data>
+      <data key="d2">2222d8ced8c54c7740b3e0cffcd8525a,22482d48acc43609e5bdb7c6eb5fb054,2f8b19143e77605e29fc0230e7fb8d65,3fff574275afb4f4ceaec3658035382f,439b3f351ab1d84f3c741a6f19640df7,5026647f13469b7f9bb16da551296ce7,bf4ade829292c62447d7bc09ae80e73a,c1a9979ca4dac833f6370fc29f2822c4,ca179fd838db13a6b50d4aa364e8eec4,d8d6341993c7f694cf474b25b483c82f,e246eac13ceb40ece10bb8b5839605e2</data>
+      <data key="d5">0</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;&#26519;&#23431;&#20063;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">The entity "&#26519;&#38632;&#22025; (Lin Yuya)" is described in various contexts. In one instance, Lin Yuya experiences unusual phenomena during testing, suggesting the presence of self-awareness in the mysterious method being tested. In another situation, he has reached his limit and struggles to push away Angelica but lacks the strength to do so. Additionally, it's mentioned that Lin Yuya is sweating and feeling anxious, indicating that he might not be suitable for prolonged activity.</data>
+      <data key="d2">0d83076d2b3c0be2a178ded49450eafb,18a4bfbee10209fe0efd735cb33a7c01,6a6e7c46aada2e93b2d07f556bea5728</data>
+      <data key="d5">0</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;&#21513;&#33673;&#21345;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The organization is involved in a situation where Lin Yuzhang's shooting has occurred three times, showing their close relationship with the event."</data>
+      <data key="d2">d4897c90f5d077a681cdd3d137053156</data>
+      <data key="d5">0</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;&#24494;&#36719;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The text mentions Microsoft, a multinational technology company known for its software products and services."</data>
+      <data key="d2">cc792fb532dbcc0f5e641d2d55d13c8d</data>
+      <data key="d5">0</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;&#36842;&#20262;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Dylan is an organization involved in film production that has its own approach to creating authentic scenes, which requires significant effort and preparation. Additionally, Dylan is mentioned as someone who might be considered for additional acting scenes with Angelicake, indicating his potential involvement in the same project or event.</data>
+      <data key="d2">2224392a0f8f509a55e0914296ca2d90,862bb14141e773ce12a86977c7f404bf</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;&#26032;&#20154;&#22521;&#35757;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Newcomer training is an event where new actors are trained on the requirements of creating authentic scenes in film production, including spending time with their co-stars before shooting."</data>
+      <data key="d2">862bb14141e773ce12a86977c7f404bf</data>
+      <data key="d5">0</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;&#26032;&#20154;&#22521;&#35757;&#35838;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2224392a0f8f509a55e0914296ca2d90</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;&#36215;&#32418;&#26197;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#36215;&#32418;&#26197; is a company or organization mentioned in the text, but no specific details are provided."</data>
+      <data key="d2">c3ae88d328a9e4197f6cedbe38636e10</data>
+      <data key="d5">0</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;&#20025;&#22958;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Danne is mentioned as Lin Yu's co-star, but no specific details are provided about this person or their role in the conversation."</data>
+      <data key="d2">c3ae88d328a9e4197f6cedbe38636e10</data>
+      <data key="d5">0</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;&#23425;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#23425; is a person who expresses curiosity about exploring something further."</data>
+      <data key="d2">403d4dca0d48f6cc75f1cfeffc7811ce</data>
+      <data key="d5">0</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;&#26032;&#20154;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The 'new person' refers to Lin Yu, who is new to the acting profession and learning from Anjelica's experience."</data>
+      <data key="d2">17f35c31016fe765d1346f21b2e1981f</data>
+      <data key="d5">1</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;WESTERN CULTURE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Western culture is mentioned as a reference point for attitudes towards male dominance, which contrasts with Anjelica's perspective."</data>
+      <data key="d2">17f35c31016fe765d1346f21b2e1981f</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;&#20044;&#20811;&#20848;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ukraine is mentioned as Angelica's birthplace, known for its strong male-dominated culture."</data>
+      <data key="d2">db90598110872572ae56b29a1bcdb33a</data>
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;&#23433;&#21513;&#1610;&#1604;&#1610;&#21345;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">db90598110872572ae56b29a1bcdb33a</data>
+      <data key="d5">1</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;ADULT FILM INDUSTRY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">db90598110872572ae56b29a1bcdb33a</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;&#23478;&#36828;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#23478;&#36828; is a person who possibly left their hometown due to cultural differences."</data>
+      <data key="d2">c1e6986b771c7c4d3d5d762b28559a5c</data>
+      <data key="d5">0</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;&#26519;&#23431;&#39039;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lin Yutong is a person who touches Angelica's skin and grabs her chest, showing an intimate relationship."</data>
+      <data key="d2">972053e4f2a57e95cb0dc8b12df7117e</data>
+      <data key="d5">0</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;&#33258;&#28982;&#39118;&#26223;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The natural landscape serves as the backdrop for the conversation between Lin Yu and Angela about photography techniques."</data>
+      <data key="d2">8d8bd546cef2f19c085533292496e9a6</data>
+      <data key="d5">0</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;&#33258;&#28982;&#39118;&#20809;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8d8bd546cef2f19c085533292496e9a6</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;&#25668;&#24433;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8d8bd546cef2f19c085533292496e9a6</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;&#28363;&#28363;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#28363;&#28363; is an organization that produces water sounds and engages in intimate activities with individuals like &#26519;&#23431; and &#23433;&#21513;&#33673;&#21345;."</data>
+      <data key="d2">1ceb216bd02e047e7525407b4bb70197</data>
+      <data key="d5">0</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;&#30495;&#27668;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Zhen Qi is an organization or practice related to the cultivation of true energy for health and well-being purposes."</data>
+      <data key="d2">28ea27f52bb6a03c57f01f60c6340ef9</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;&#28789;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ling is a person who is exploring the reactions of Angelica during their intimate moments, discovering her preferences and weaknesses."</data>
+      <data key="d2">622adb474d300f0943e30c759d52cced</data>
+      <data key="d5">0</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;&#26519;&#23431;&#21487;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lin Yukan is a person who is trying to expand his organization and not willing to retreat. He activates the secret method of the organization to its extreme, taking energy from his internal organs."</data>
+      <data key="d2">7a819eb895c90a17b3331541edd64c2a</data>
+      <data key="d5">0</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;&#20462;&#38271;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The organization is involved in a situation where someone is struggling to move something, indicating a challenging task."</data>
+      <data key="d2">7851277a3e6496a3d3481981f304d148</data>
+      <data key="d5">0</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <edge source="&quot;&#26519;&#23431;&quot;" target="&quot;&#23433;&#21513;&#33673;&#21345;&quot;">
+      <data key="d8">4.0</data>
+      <data key="d9">Lin Yu and Angelicake engage in friendly conversations about acting and work-related topics, showing a positive working relationship between them. They exchange ideas on acting and their roles, having different perspectives on male dominance in the context of Western culture. Lin Yu also interacts with Angelica, noticing her attitude towards male dominance and reflecting on her background and experiences to understand her perspective better. Additionally, during intimate activities, Lin Yu receives guidance and support from Angelica, helping him maintain his erection and experience pleasure.</data>
+      <data key="d10">17f35c31016fe765d1346f21b2e1981f,2224392a0f8f509a55e0914296ca2d90,28ea27f52bb6a03c57f01f60c6340ef9,db90598110872572ae56b29a1bcdb33a</data>
+      <data key="d11">85c79fd84f5e4f918471c386852204c5</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#26519;&#23431;&quot;" target="&quot;&#36842;&#20262;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lin Yu considers discussing additional acting scenes with Dylan, indicating their potential collaboration on the same project or event."</data>
+      <data key="d10">2224392a0f8f509a55e0914296ca2d90</data>
+      <data key="d11">eae4259b19a741ab9f9f6af18c4a0470</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#26519;&#23431;&quot;" target="&quot;&#33258;&#28982;&#39118;&#20809;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lin Yu appreciates the beauty of the natural landscape as they engage in conversation about photography techniques with Angela."</data>
+      <data key="d10">8d8bd546cef2f19c085533292496e9a6</data>
+      <data key="d11">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#26519;&#23431;&quot;" target="&quot;&#30495;&#27668;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lin Yu is practicing Zhen Qi to cultivate true energy for health and well-being purposes, which helps him maintain an erection during intimate activities with Angelica."</data>
+      <data key="d10">28ea27f52bb6a03c57f01f60c6340ef9</data>
+      <data key="d11">dde131ab575d44dbb55289a6972be18f</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#23433;&#21513;&#33673;&#21345;&quot;" target="&quot;&#26032;&#20154;&#22521;&#35757;&#35838;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Angelicake participates in new employee training sessions provided by the organization, demonstrating her commitment to professional development and collaboration skills."</data>
+      <data key="d10">2224392a0f8f509a55e0914296ca2d90</data>
+      <data key="d11">de9e343f2e334d88a8ac7f8813a915e5</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#23433;&#21513;&#33673;&#21345;&quot;" target="&quot;ADULT FILM INDUSTRY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Angelica works in the adult film industry, where she has been portrayed as a weak and submissive character. This may have influenced her attitude towards male dominance."</data>
+      <data key="d10">db90598110872572ae56b29a1bcdb33a</data>
+      <data key="d11">e2bf260115514fb3b252fd879fb3e7be</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#23433;&#21513;&#33673;&#21345;&quot;" target="&quot;&#25668;&#24433;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Angela explains photography techniques to Lin Yu, while engaging in intimate physical contact during their interaction."</data>
+      <data key="d10">8d8bd546cef2f19c085533292496e9a6</data>
+      <data key="d11">b462b94ce47a4b8c8fffa33f7242acec</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#26032;&#20154;&quot;" target="&quot;WESTERN CULTURE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The 'new person' Lin Yu is learning about acting techniques within the context of Western culture, which contrasts with Anjelica's attitude towards male dominance."</data>
+      <data key="d10">17f35c31016fe765d1346f21b2e1981f</data>
+      <data key="d11">17ed1d92075643579a712cc6c29e8ddb</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#20044;&#20811;&#20848;&quot;" target="&quot;&#23433;&#21513;&#1610;&#1604;&#1610;&#21345;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Angelica comes from Ukraine, where she grew up in a male-dominated culture. She moved away to pursue a career in the adult film industry, where she has been portrayed as a weak and submissive character."</data>
+      <data key="d10">db90598110872572ae56b29a1bcdb33a</data>
+      <data key="d11">3ce7c210a21b4deebad7cc9308148d86</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

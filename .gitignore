@@ -17,7 +17,7 @@ docsite/.yarn/*
 !docsite/.yarn/versions
 docsite/.pnp.*
 
-./ragtest
+
 
 .yarn/*
 !.yarn/patches
