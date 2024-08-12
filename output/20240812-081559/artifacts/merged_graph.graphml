@@ -1,0 +1,308 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;&#23433;&#21513;&#33673;&#21345;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#23433;&#21513;&#33673;&#21345;&#26159;&#26519;&#23431;&#30340;&#21512;&#20316;&#20249;&#20276;&#65292;&#22312;&#25991;&#20013;&#34987;&#25551;&#36848;&#20026;&#27491;&#22312;&#35752;&#35770;'&#21407;&#22987;&#36164;&#26412;&#31215;&#32047;'&#21644;&#25293;&#25668;&#25216;&#24039;&#12290;"
+"&#23433;&#21513;&#33673;&#21345;&#26159;&#20107;&#20214;&#30340;&#20027;&#35282;&#65292;&#22905;&#35265;&#35777;&#20102;&#25972;&#20010;&#36807;&#31243;&#24182;&#25552;&#20986;&#20102;&#38382;&#39064;&#12290;""&#23433;&#21513;&#33673;&#21345;&#26159;&#19968;&#20010;&#20154;&#65292;&#23545;&#26519;&#23431;&#30340;&#21453;&#24212;&#24863;&#21040;&#24778;&#35766;&#12290;"
+"&#23433;&#21513;&#33673;&#21345;&#26159;&#19968;&#20010;&#28436;&#21592;&#65292;&#22312;&#25293;&#25668;&#21475;&#20132;&#22330;&#26223;&#26102;&#34920;&#29616;&#20986;&#33394;&#65292;&#20294;&#27492;&#26102;&#22905;&#24863;&#21040;&#30130;&#24811;&#12290;"
+"&#23433;&#21513;&#33673;&#21345;&#26159;&#19968;&#20301;&#33402;&#26415;&#23478;&#65292;&#23545;&#33258;&#24049;&#30340;&#20316;&#21697;&#26377;&#26126;&#30830;&#30340;&#30475;&#27861;&#21644;&#24577;&#24230;&#12290;"
+"&#23433;&#21513;&#33673;&#21345;&#26159;&#25925;&#20107;&#20013;&#30340;&#20154;&#29289;&#65292;&#23545;&#26519;&#23431;&#36827;&#34892;&#35843;&#24773;&#24182;&#21152;&#24555;&#20102;&#33136;&#37096;&#30340;&#21160;&#20316;&#12290;"
+"&#23433;&#21513;&#33673;&#21345;&#26159;&#19968;&#20010;&#22312;&#24615;&#29233;&#22330;&#26223;&#20013;&#30340;&#20154;&#29289;&#65292;&#25351;&#23548;&#30528;&#26519;&#23431;&#30340;&#21160;&#20316;&#12290;"
+"&#23433;&#21513;&#33673;&#21345;&#22312;&#24615;&#29233;&#22330;&#26223;&#20013;&#25351;&#23548;&#26519;&#23431;&#30340;&#21160;&#20316;&#65292;&#34920;&#29616;&#20986;&#20027;&#23548;&#21644;&#33258;&#20449;&#12290;"</data>
+      <data key="d2">28ea27f52bb6a03c57f01f60c6340ef9,2f8b19143e77605e29fc0230e7fb8d65,5026647f13469b7f9bb16da551296ce7,b9e17451752c8cc4cef066b9b9152b2b,c3ae88d328a9e4197f6cedbe38636e10,deba14a48efb7390eec8948dda06fc18,f8c007155a91a9588b91fed9585ecda3</data>
+    </node>
+    <node id="&quot;&#26519;&#23431;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#26519;&#23431;&#26159;&#19968;&#20010;&#24819;&#35201;&#23454;&#29616;&#36130;&#23500;&#33258;&#30001;&#30340;&#20154;&#65292;&#20182;&#32771;&#34385;&#21040;&#20102;&#21407;&#22987;&#36164;&#26412;&#31215;&#32047;&#30340;&#38382;&#39064;&#65292;&#24182;&#19982;&#23433;&#21513;&#33673;&#21345;&#36827;&#34892;&#20102;&#20132;&#27969;&#12290;"
+"&#26519;&#23431;&#26159;&#19968;&#20010;&#20154;&#65292;&#20351;&#29992;&#19968;&#31181;&#19981;&#20256;&#22823;&#27861;&#26174;&#31034;&#20986;&#33258;&#25105;&#24847;&#35782;&#12290;"
+"&#26519;&#23431;&#26159;&#20013;&#22269;&#30007;&#29983;&#65292;&#20182;&#22312;&#23433;&#21513;&#33673;&#21345;&#30340;&#34920;&#28436;&#20013;&#26174;&#24471;&#36731;&#26494;&#65292;&#24182;&#25552;&#20379;&#20102;&#19968;&#24352;&#28287;&#24062;&#35753;&#22905;&#20241;&#24687;&#12290;"
+"&#26519;&#23431;&#26159;&#23433;&#21513;&#33673;&#21345;&#30340;&#21512;&#20316;&#20249;&#20276;&#65292;&#20851;&#24515;&#22905;&#30340;&#24037;&#20316;&#24577;&#24230;&#21644;&#20316;&#21697;&#30340;&#35780;&#20215;&#12290;"
+"&#26519;&#23431;&#26159;&#25925;&#20107;&#30340;&#20027;&#35282;&#65292;&#20182;&#30340;&#27668;&#34880;&#20805;&#30408;&#65292;&#21767;&#32418;&#40831;&#30333;&#65292;&#21452;&#30446;&#28847;&#28847;&#26377;&#31070;&#65292;&#27491;&#22312;&#32463;&#21382;&#24615;&#29233;&#22330;&#26223;&#12290;"
+"&#26519;&#23431;&#26159;&#24615;&#29233;&#22330;&#26223;&#20013;&#30340;&#21478;&#19968;&#20010;&#35282;&#33394;&#65292;&#34987;&#23433;&#21513;&#33673;&#21345;&#25351;&#23548;&#21160;&#20316;&#12290;"
+"&#26519;&#23431;&#22312;&#24615;&#29233;&#22330;&#26223;&#20013;&#34987;&#21160;&#22320;&#36981;&#24490;&#23433;&#21513;&#33673;&#21345;&#30340;&#25351;&#31034;&#65292;&#20445;&#25345;&#32908;&#32905;&#32039;&#24352;&#21644;&#21187;&#36215;&#29366;&#24577;&#12290;"
+"&#26519;&#23431; is another character involved in the intimate scene with &#23433;&#21513;&#33673;&#21345;."</data>
+      <data key="d2">28ea27f52bb6a03c57f01f60c6340ef9,2f8b19143e77605e29fc0230e7fb8d65,5026647f13469b7f9bb16da551296ce7,b9e17451752c8cc4cef066b9b9152b2b,c3ae88d328a9e4197f6cedbe38636e10,ca179fd838db13a6b50d4aa364e8eec4,deba14a48efb7390eec8948dda06fc18,f8c007155a91a9588b91fed9585ecda3</data>
+      <data key="d3">"PERSON"</data>
+    </node>
+    <node id="&quot;&#19996;&#27431;&#32654;&#20154;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#19996;&#27431;&#32654;&#20154;&#26159;&#25991;&#20013;&#25552;&#21040;&#30340;&#22320;&#21306;&#65292;&#21487;&#33021;&#26159;&#25351;&#22312;&#19996;&#35199;&#26041;&#21644;&#27431;&#27954;&#30340;&#32654;&#27954;&#20154;&#22763;&#12290;"</data>
+      <data key="d2">f8c007155a91a9588b91fed9585ecda3</data>
+      <data key="d3">"GEO"</data>
+    </node>
+    <node id="&quot;&#36130;&#23500;&#33258;&#30001;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#36130;&#23500;&#33258;&#30001;&#26159;&#26519;&#23431;&#24819;&#35201;&#23454;&#29616;&#30340;&#30446;&#26631;&#65292;&#20182;&#22312;&#25991;&#20013;&#25506;&#35752;&#20102;&#22914;&#20309;&#36890;&#36807;&#21407;&#22987;&#36164;&#26412;&#31215;&#32047;&#26469;&#23454;&#29616;&#36825;&#19968;&#30446;&#26631;&#12290;"</data>
+      <data key="d2">f8c007155a91a9588b91fed9585ecda3</data>
+      <data key="d3">"EVENT"</data>
+    </node>
+    <node id="&quot;&#25293;&#25668;&#25216;&#24039;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f8c007155a91a9588b91fed9585ecda3</data>
+    </node>
+    <node id="&quot;JOHN DOE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A hypothetical person involved in the discussion about filming and physical reactions."</data>
+      <data key="d2">5dddfa384f5e794e10bf39b7ddb2cea6</data>
+    </node>
+    <node id="&quot;LOCATION Y&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"A hypothetical geographical location where a part of the conversation takes place."</data>
+      <data key="d2">5dddfa384f5e794e10bf39b7ddb2cea6</data>
+    </node>
+    <node id="&quot;FILMING TECHNIQUE EVENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A hypothetical event discussed in the text, focusing on filming techniques and their requirements.")&lt;|COMPLETE|&gt;Please note that without proper context or identifiable entities, this output is purely illustrative and does not correspond to the provided text. For accurate extraction from the given Chinese text, it would be necessary to identify specific names, locations, organizations, or events that can be categorized accordingly.</data>
+      <data key="d2">5dddfa384f5e794e10bf39b7ddb2cea6</data>
+    </node>
+    <node id="&quot;&#32467;&#21360;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#32467;&#21360;&#26159;&#19968;&#31181;&#32452;&#32455;&#65292;&#22312;&#26519;&#23431;&#24847;&#35782;&#20013;&#36215;&#21040;&#20316;&#29992;&#12290;"</data>
+      <data key="d2">2f8b19143e77605e29fc0230e7fb8d65</data>
+    </node>
+    <node id="&quot;&#32905;&#26834;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#32905;&#26834;&#26159;&#19968;&#20010;&#22320;&#29702;&#23454;&#20307;&#65292;&#22312;&#25991;&#20013;&#34987;&#25551;&#36848;&#20026;&#27844;&#20102;&#27668;&#30340;&#29366;&#24577;&#12290;"
+"&#32905;&#26834;&#22312;&#36825;&#37324;&#25351;&#30007;&#24615;&#30340;&#29983;&#27542;&#22120;&#65292;&#22312;&#25991;&#20013;&#34987;&#25551;&#36848;&#20026;&#21187;&#36215;&#19988;&#20445;&#25345;&#19968;&#23450;&#35282;&#24230;&#12290;"</data>
+      <data key="d2">2f8b19143e77605e29fc0230e7fb8d65,b9e17451752c8cc4cef066b9b9152b2b</data>
+    </node>
+    <node id="&quot;&#37329;&#20809;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#37329;&#20809;&#26159;&#22320;&#29702;&#29616;&#35937;&#65292;&#20986;&#29616;&#22312;&#26519;&#23431;&#24847;&#35782;&#20013;&#30340;&#32467;&#21360;&#19968;&#38378;&#32780;&#36807;&#12290;"</data>
+      <data key="d2">2f8b19143e77605e29fc0230e7fb8d65</data>
+    </node>
+    <node id="&quot;&#23567;&#20804;&#24351;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#23567;&#20804;&#24351;&#26159;&#19968;&#20010;&#22320;&#29702;&#23454;&#20307;&#65292;&#25351;&#30340;&#26159;&#26519;&#23431;&#30340;&#19979;&#36523;&#37096;&#20301;&#12290;"</data>
+      <data key="d2">2f8b19143e77605e29fc0230e7fb8d65</data>
+    </node>
+    <node id="&quot;&#25293;&#25668;&#21475;&#20132;&#22330;&#26223;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#36825;&#26159;&#23433;&#21513;&#33673;&#21345;&#27491;&#22312;&#21442;&#19982;&#30340;&#24433;&#35270;&#25293;&#25668;&#27963;&#21160;&#65292;&#22905;&#22312;&#20854;&#20013;&#34920;&#29616;&#20986;&#33394;&#12290;"</data>
+      <data key="d2">deba14a48efb7390eec8948dda06fc18</data>
+    </node>
+    <node id="&quot;&#20025;&#22958;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#20025;&#22958;&#26159;&#26519;&#23431;&#20316;&#21697;&#20013;&#30340;&#19968;&#20301;&#22899;&#20027;&#35282;&#65292;&#34987;&#25552;&#21450;&#20316;&#20026;&#21512;&#20316;&#30340;&#23545;&#35937;&#12290;"</data>
+      <data key="d2">c3ae88d328a9e4197f6cedbe38636e10</data>
+    </node>
+    <node id="&quot;&#31881;&#19997;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#31881;&#19997;&#26159;&#25351;&#20851;&#27880;&#24182;&#25903;&#25345;&#23433;&#21513;&#33673;&#21345;&#20316;&#21697;&#30340;&#32676;&#20307;&#65292;&#24076;&#26395;&#22905;&#33021;&#26356;&#25237;&#20837;&#22320;&#21019;&#20316;&#12290;"</data>
+      <data key="d2">c3ae88d328a9e4197f6cedbe38636e10</data>
+    </node>
+    <node id="&quot;&#26032;&#20154;&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"'&#26032;&#20154;'&#22312;&#36825;&#37324;&#25351;&#30340;&#26159;&#26519;&#23431;&#65292;&#20182;&#21018;&#24320;&#22987;&#26080;&#27861;&#25215;&#21463;&#22826;&#22823;&#30340;&#21050;&#28608;&#12290;"</data>
+      <data key="d2">28ea27f52bb6a03c57f01f60c6340ef9</data>
+    </node>
+    <node id="&quot;&#19981;&#21512;&#26684;&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"'&#19981;&#21512;&#26684;'&#26159;&#23433;&#21513;&#33673;&#21345;&#23545;&#26519;&#23431;&#30340;&#26399;&#26395;&#65292;&#22905;&#24076;&#26395;&#20182;&#22312;&#24615;&#29233;&#20013;&#33021;&#22362;&#25345;&#24471;&#26356;&#20037;&#19968;&#20123;&#12290;"</data>
+      <data key="d2">28ea27f52bb6a03c57f01f60c6340ef9</data>
+    </node>
+    <node id="&quot;&#34588;&#31348;&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"'&#34588;&#31348;'&#26159;&#25351;&#23433;&#21513;&#33673;&#21345;&#30340;&#38452;&#36947;&#65292;&#22905;&#22312;&#24615;&#29233;&#20013;&#23545;&#26519;&#23431;&#30340;&#32905;&#26834;&#36827;&#34892;&#22871;&#20837;&#12290;"</data>
+      <data key="d2">28ea27f52bb6a03c57f01f60c6340ef9</data>
+    </node>
+    <node id="&quot;&#24615;&#29233;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">28ea27f52bb6a03c57f01f60c6340ef9</data>
+    </node>
+    <node id="&quot;&#34588;&#33216;&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"&#34588;&#33216;&#22312;&#36825;&#37324;&#24418;&#23481;&#23433;&#21513;&#33673;&#21345;&#30340;&#33216;&#37096;&#65292;&#22905;&#22312;&#24615;&#29233;&#20013;&#19978;&#19979;&#33310;&#21160;&#23427;&#12290;"</data>
+      <data key="d2">5026647f13469b7f9bb16da551296ce7</data>
+    </node>
+    <node id="&quot;&#39532;&#30002;&#32447;&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"&#39532;&#30002;&#32447;&#26159;&#25351;&#23433;&#21513;&#33673;&#21345;&#22312;&#24615;&#29233;&#23039;&#21183;&#20013;&#20984;&#26174;&#30340;&#33145;&#37096;&#32447;&#26465;&#12290;"</data>
+      <data key="d2">5026647f13469b7f9bb16da551296ce7</data>
+    </node>
+    <node id="&quot;&#21627;&#21535;&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"&#21627;&#21535;&#22312;&#36825;&#37324;&#25351;&#23433;&#21513;&#33673;&#21345;&#22312;&#24615;&#29233;&#36807;&#31243;&#20013;&#30340;&#22768;&#38899;&#12290;"</data>
+      <data key="d2">5026647f13469b7f9bb16da551296ce7</data>
+    </node>
+    <node id="&quot;&#33310;&#21160;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5026647f13469b7f9bb16da551296ce7</data>
+    </node>
+    <node id="&quot;&#20984;&#26174;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5026647f13469b7f9bb16da551296ce7</data>
+    </node>
+    <node id="&quot;&#32654;&#20154;&#34588;&#33216;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#32654;&#20154;&#34588;&#33216;&#26159;&#24615;&#29233;&#22330;&#26223;&#20013;&#30340;&#19968;&#20010;&#37096;&#20301;&#65292;&#25351;&#30340;&#26159;&#22899;&#24615;&#30340;&#33216;&#37096;&#12290;"</data>
+      <data key="d2">b9e17451752c8cc4cef066b9b9152b2b</data>
+    </node>
+    <node id="&quot;&#23567;&#34542;&#33136;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#23567;&#34542;&#33136;&#26159;&#24615;&#29233;&#22330;&#26223;&#20013;&#30340;&#19968;&#20010;&#37096;&#20301;&#65292;&#25351;&#30340;&#26159;&#22899;&#24615;&#30340;&#33136;&#37096;&#12290;"</data>
+      <data key="d2">b9e17451752c8cc4cef066b9b9152b2b</data>
+    </node>
+    <node id="&quot;&#30333;&#37329;&#31168;&#21457;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#30333;&#37329;&#31168;&#21457;&#25551;&#36848;&#30340;&#26159;&#23433;&#21513;&#33673;&#21345;&#30340;&#22836;&#21457;&#65292;&#21576;&#29616;&#20986;&#19997;&#32504;&#33324;&#30340;&#20809;&#27901;&#21644;&#36136;&#24863;&#12290;"</data>
+      <data key="d2">b9e17451752c8cc4cef066b9b9152b2b</data>
+    </node>
+    <node id="&quot;&#23047;&#21535;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#23047;&#21535; refers to a high-pitched moan or cry during an intimate moment, as exhibited by &#23433;&#21513;&#33673;&#21345;."</data>
+      <data key="d2">ca179fd838db13a6b50d4aa364e8eec4</data>
+    </node>
+    <node id="&quot;&#28139;&#38753;&#30340;&#27713;&#27700;&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"&#28139;&#38753;&#30340;&#27713;&#27700; describes a sexually explicit detail related to the narrative's setting."</data>
+      <data key="d2">ca179fd838db13a6b50d4aa364e8eec4</data>
+    </node>
+    <node id="&quot;UNKNOWN ORGANIZATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The context does not specify an organization, but implies a scenario involving an individual and their actions."</data>
+      <data key="d2">bcdf4493eb01d97d07943d789a337a38</data>
+    </node>
+    <node id="&quot;UNKNOWN PERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The text describes the actions of an individual without specifying their identity or role in any known event or situation."</data>
+      <data key="d2">bcdf4493eb01d97d07943d789a337a38</data>
+    </node>
+    <node id="&quot;UNKNOWN GEOGRAPHICAL LOCATION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The text does not mention a specific geographical location, appearing to be a scenario without a particular setting."</data>
+      <data key="d2">bcdf4493eb01d97d07943d789a337a38</data>
+    </node>
+    <node id="&quot;UNKNOWN EVENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The described situation does not correspond to any known event, suggesting it is a fictional or hypothetical scenario."</data>
+      <data key="d2">bcdf4493eb01d97d07943d789a337a38</data>
+    </node>
+    <node id="&quot;MARTIAN FAUNA&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Martian Fauna refers to the life forms found on Mars, which have been discovered through the images transmitted by the Mars Rover."</data>
+      <data key="d2">bcdf4493eb01d97d07943d789a337a38</data>
+    </node>
+    <node id="&quot;DEBATES ON LIFE BEYOND EARTH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Debates on Life Beyond Earth are discussions and disagreements that arose from the discovery of Martian fauna regarding the existence of life outside Earth."</data>
+      <data key="d2">bcdf4493eb01d97d07943d789a337a38</data>
+    </node>
+    <node id="&quot;ETHICAL IMPLICATIONS OF EXPLORATION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Ethical Implications of Exploration refers to the moral concerns raised by the discovery and exploration of new frontiers, such as Mars."</data>
+      <data key="d2">bcdf4493eb01d97d07943d789a337a38</data>
+    </node>
+    <node id="&quot;NEW FRONTIER&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"New Frontier is a term used to describe the unexplored territories beyond Earth, particularly Mars in this context."</data>
+      <data key="d2">bcdf4493eb01d97d07943d789a337a38</data>
+    </node>
+    <node id="&quot;GOVERNMENTS AND PRIVATE CORPORATIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Governments and Private Corporations are entities that have shown interest in claiming parts of the new frontier after the discovery of Martian fauna."</data>
+      <data key="d2">bcdf4493eb01d97d07943d789a337a38</data>
+    </node>
+    <node id="&quot;MARS ROVER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bcdf4493eb01d97d07943d789a337a38</data>
+    </node>
+    <edge source="&quot;&#23433;&#21513;&#33673;&#21345;&quot;" target="&quot;&#26519;&#23431;&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"&#26519;&#23431;&#19982;&#23433;&#21513;&#33673;&#21345;&#20043;&#38388;&#26377;&#30528;&#21512;&#20316;&#20249;&#20276;&#30340;&#20851;&#31995;&#65292;&#20182;&#20204;&#20849;&#21516;&#35752;&#35770;&#20851;&#20110;'&#21407;&#22987;&#36164;&#26412;&#31215;&#32047;'&#30340;&#38382;&#39064;&#12290;"
+"&#23433;&#21513;&#33673;&#21345;&#22312;&#26519;&#23431;&#33007;&#19979;&#34920;&#28436;&#21475;&#25216;&#65292;&#32780;&#26519;&#23431;&#21017;&#25552;&#20379;&#28287;&#24062;&#35753;&#22905;&#20241;&#24687;&#12290;"
+"&#26519;&#23431;&#26159;&#23433;&#21513;&#33673;&#21345;&#30340;&#21512;&#20316;&#20249;&#20276;&#65292;&#20182;&#20204;&#20043;&#38388;&#26377;&#20851;&#20110;&#24037;&#20316;&#24577;&#24230;&#21644;&#20316;&#21697;&#35780;&#20215;&#30340;&#20132;&#27969;&#12290;"
+"&#23433;&#21513;&#33673;&#21345;&#23545;&#26519;&#23431;&#36827;&#34892;&#20102;&#35843;&#24773;&#24182;&#21152;&#24555;&#20102;&#33136;&#37096;&#30340;&#21160;&#20316;&#12290;"
+"&#23433;&#21513;&#33673;&#21345;&#22312;&#24615;&#29233;&#22330;&#26223;&#20013;&#25351;&#23548;&#30528;&#26519;&#23431;&#30340;&#21160;&#20316;&#12290;"
+"&#23433;&#21513;&#33673;&#21345;&#22312;&#24615;&#29233;&#22330;&#26223;&#20013;&#25351;&#23548;&#26519;&#23431;&#30340;&#21160;&#20316;&#65292;&#34920;&#29616;&#20986;&#20027;&#23548;&#21644;&#33258;&#20449;&#12290;""&#26519;&#23431;&#22312;&#24615;&#29233;&#22330;&#26223;&#20013;&#36981;&#24490;&#23433;&#21513;&#33673;&#21345;&#30340;&#25351;&#31034;&#65292;&#20445;&#25345;&#21187;&#36215;&#29366;&#24577;&#12290;"</data>
+      <data key="d6">28ea27f52bb6a03c57f01f60c6340ef9,5026647f13469b7f9bb16da551296ce7,b9e17451752c8cc4cef066b9b9152b2b,c3ae88d328a9e4197f6cedbe38636e10,deba14a48efb7390eec8948dda06fc18,f8c007155a91a9588b91fed9585ecda3</data>
+    </edge>
+    <edge source="&quot;&#23433;&#21513;&#33673;&#21345;&quot;" target="&quot;&#25293;&#25668;&#25216;&#24039;&quot;">
+      <data key="d4">2.0</data>
+      <data key="d5">"&#23433;&#21513;&#33673;&#21345;&#22312;&#25991;&#20013;&#34987;&#25551;&#36848;&#20026;&#20855;&#26377;&#19987;&#19994;&#30693;&#35782;&#65292;&#33021;&#22815;&#25351;&#23548;&#26519;&#23431;&#20851;&#20110;&#25293;&#25668;&#25216;&#24039;&#30340;&#38382;&#39064;&#12290;"</data>
+      <data key="d6">f8c007155a91a9588b91fed9585ecda3</data>
+    </edge>
+    <edge source="&quot;&#23433;&#21513;&#33673;&#21345;&quot;" target="&quot;&#25293;&#25668;&#21475;&#20132;&#22330;&#26223;&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"&#23433;&#21513;&#33673;&#21345;&#26159;&#25293;&#25668;&#21475;&#20132;&#22330;&#26223;&#20013;&#30340;&#28436;&#21592;&#65292;&#34920;&#29616;&#19968;&#27969;&#30340;&#21475;&#25216;&#12290;"</data>
+      <data key="d6">deba14a48efb7390eec8948dda06fc18</data>
+    </edge>
+    <edge source="&quot;&#23433;&#21513;&#33673;&#21345;&quot;" target="&quot;&#31881;&#19997;&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"&#31881;&#19997;&#20851;&#27880;&#24182;&#25903;&#25345;&#23433;&#21513;&#33673;&#21345;&#30340;&#20316;&#21697;&#65292;&#24076;&#26395;&#22905;&#33021;&#26356;&#25237;&#20837;&#22320;&#21019;&#20316;&#12290;"</data>
+      <data key="d6">c3ae88d328a9e4197f6cedbe38636e10</data>
+    </edge>
+    <edge source="&quot;&#26519;&#23431;&quot;" target="&quot;&#32467;&#21360;&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"&#32467;&#21360;&#22312;&#26519;&#23431;&#24847;&#35782;&#20013;&#36215;&#21040;&#20102;&#20316;&#29992;&#65292;&#24110;&#21161;&#20182;&#24674;&#22797;&#27668;&#21183;&#12290;"</data>
+      <data key="d6">2f8b19143e77605e29fc0230e7fb8d65</data>
+    </edge>
+    <edge source="&quot;&#26519;&#23431;&quot;" target="&quot;&#32905;&#26834;&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"&#32905;&#26834;&#26159;&#26519;&#23431;&#36523;&#20307;&#30340;&#19968;&#37096;&#20998;&#65292;&#26174;&#31034;&#20986;&#19981;&#21516;&#30340;&#29366;&#24577;&#12290;"</data>
+      <data key="d6">2f8b19143e77605e29fc0230e7fb8d65</data>
+    </edge>
+    <edge source="&quot;&#26519;&#23431;&quot;" target="&quot;&#24615;&#29233;&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"&#26519;&#23431;&#27491;&#22312;&#32463;&#21382;&#24615;&#29233;&#65292;&#24863;&#21463;&#21040;&#37221;&#40635;&#30340;&#24555;&#24863;&#24182;&#23581;&#35797;&#24341;&#23548;&#30495;&#27668;&#25345;&#32493;&#28748;&#28297;&#19979;&#20307;&#12290;"</data>
+      <data key="d6">28ea27f52bb6a03c57f01f60c6340ef9</data>
+    </edge>
+    <edge source="&quot;&#32467;&#21360;&quot;" target="&quot;&#37329;&#20809;&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"&#37329;&#20809;&#26159;&#32467;&#21360;&#22312;&#26519;&#23431;&#24847;&#35782;&#20013;&#20135;&#29983;&#30340;&#19968;&#31181;&#29616;&#35937;&#12290;"</data>
+      <data key="d6">2f8b19143e77605e29fc0230e7fb8d65</data>
+    </edge>
+    <edge source="&quot;&#34588;&#33216;&quot;" target="&quot;&#33310;&#21160;&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"&#23433;&#21513;&#33673;&#21345;&#30340;&#34588;&#33216;&#22312;&#36825;&#20010;&#22330;&#26223;&#20013;&#34987;&#25551;&#36848;&#20026;&#19978;&#19979;&#33310;&#21160;&#12290;"</data>
+      <data key="d6">5026647f13469b7f9bb16da551296ce7</data>
+    </edge>
+    <edge source="&quot;&#39532;&#30002;&#32447;&quot;" target="&quot;&#20984;&#26174;&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"&#39532;&#30002;&#32447;&#22312;&#23433;&#21513;&#33673;&#21345;&#36523;&#20307;&#21521;&#21518;&#20208;&#30340;&#23039;&#21183;&#20013;&#20984;&#26174;&#20986;&#26469;&#12290;"</data>
+      <data key="d6">5026647f13469b7f9bb16da551296ce7</data>
+    </edge>
+    <edge source="&quot;UNKNOWN ORGANIZATION&quot;" target="&quot;UNKNOWN PERSON&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The individual's actions are not related to any specified organization, indicating an isolated incident or personal behavior."</data>
+      <data key="d6">bcdf4493eb01d97d07943d789a337a38</data>
+    </edge>
+    <edge source="&quot;UNKNOWN ORGANIZATION&quot;" target="&quot;UNKNOWN EVENT&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"There is no connection between the organization and the event described, indicating an unrelated or independent situation."</data>
+      <data key="d6">bcdf4493eb01d97d07943d789a337a38</data>
+    </edge>
+    <edge source="&quot;UNKNOWN PERSON&quot;" target="&quot;UNKNOWN GEOGRAPHICAL LOCATION&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The scenario occurs without reference to a specific location, suggesting it could happen anywhere or is not relevant to the setting."</data>
+      <data key="d6">bcdf4493eb01d97d07943d789a337a38</data>
+    </edge>
+    <edge source="&quot;MARTIAN FAUNA&quot;" target="&quot;MARS ROVER&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Mars Rover has discovered Martian Fauna, leading to debates and discussions on various topics related to space exploration."</data>
+      <data key="d6">bcdf4493eb01d97d07943d789a337a38</data>
+    </edge>
+    <edge source="&quot;DEBATES ON LIFE BEYOND EARTH&quot;" target="&quot;ETHICAL IMPLICATIONS OF EXPLORATION&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The discovery of Martian Fauna has raised both Debates on Life Beyond Earth and Ethical Implications of Exploration."</data>
+      <data key="d6">bcdf4493eb01d97d07943d789a337a38</data>
+    </edge>
+    <edge source="&quot;NEW FRONTIER&quot;" target="&quot;GOVERNMENTS AND PRIVATE CORPORATIONS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"After the discovery of Martian Fauna, Governments and Private Corporations have shown interest in claiming parts of the New Frontier."</data>
+      <data key="d6">bcdf4493eb01d97d07943d789a337a38</data>
+    </edge>
+  </graph>
+</graphml>
